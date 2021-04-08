@@ -3,7 +3,7 @@
 
 int main(){
 
-print("test");
+print("test...");
 return 0;
 
 }
